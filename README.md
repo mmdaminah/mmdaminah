@@ -9,3 +9,4 @@
 ### Pure HTML and CSS Project [Preview](https://mmdaminah.github.io/antiVirusLogin/)
 ### Working with APIs Project [Preview](https://mmdaminah.github.io/fakeUserAPI/)
 ### Bill generator with javascript [Preview](https://mmdaminah.github.io/billGenerator/)
+### Simple typescript Todo [Source](https://github.com/mmdaminah/typescriptTodo)
