@@ -7,3 +7,5 @@
 ### React Shopping Cart [Preview](https://mmdaminah.github.io/ReactShoppingCart/)
 ### A bootstrap project [Preview](https://mmdaminah.github.io/agencyBootstap/)
 ### Pure HTML and CSS Project [Preview](https://mmdaminah.github.io/antiVirusLogin/)
+### Working with APIs Project [Preview](https://mmdaminah.github.io/fakeUserAPI/)
+### Bill generator with javascript [Preview](https://mmdaminah.github.io/billGenerator/)
