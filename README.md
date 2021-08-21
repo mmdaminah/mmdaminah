@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmdaminah)](https://github.com/anuraghazra/github-readme-stats)
 # some of my projects
+### Shopping app + typescript + redux + express[Repo](https://github.com/mmdaminah/mohammadamin_ahmadi_final_project)
 ### React Todo [Preview](https://mmdaminah.github.io/ReactTodo/)
 ### React Shopping Cart [Preview](https://mmdaminah.github.io/ReactShoppingCart/)
 ### A bootstrap project [Preview](https://mmdaminah.github.io/agencyBootstap/)
