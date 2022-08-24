@@ -357,5 +357,14 @@
 </div>
 <!--START_SECTION:waka-->
 
+```text
+Java           10 hrs 32 mins  ███████████▒░░░░░░░░░░░░░   45.08 %
+Python         9 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   40.07 %
+JavaScript     1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+HTTP Request   1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Gradle         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+HTML           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```
+
 <!--END_SECTION:waka-->
 </div>
