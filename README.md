@@ -1,19 +1,29 @@
 <div>
-<h2 align="center">Hi 👋, I'm Mohammad Amin</h2>
-<h1 align="center">A Full-Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Amin</h1>
 
-<div align="center">
-<img height="350px"
+<div  style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center;">
+<img height="250px" style="border-radius:10px;"
 	src="https://raw.githubusercontent.com/mmdaminah/mmdaminah/main/profile.gif"
 	alt="profile"
 />
+<div>
+<p>
+💻 I'm a software engineer 
+</p>
+<p>
+🔭 Currently working in the Web Development field
+</p>
+<p>
+📝 Interested in Deep Learning
+</p>
+</div>
 </div>
 
-<hr/>
+<hr style="margin-top:2rem;"/>
 
 <div style="display:flex;justify-content:center;gap:4rem;flex-wrap:wrap;margin:2rem;">
-<div>
-<h3 align="center">Frontend Skills:</h3>
+<div style="background-color:#e8e8e8;padding:1rem;border-radius:10px">
+<h3 align="center" style="color:#1a1c1b">Frontend</h3>
 <div align="center" style="display:flex;gap:1rem;">
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 		<img
@@ -126,8 +136,8 @@
 	</a>
 </div>
 </div>
-<div>
-<h3 align="center">Backend Skills:</h3>
+<div style="background-color:#e8e8e8;padding:1rem;border-radius:10px">
+<h3 align="center" style="color:#1a1c1b">Backend</h3>
 <div align="center" style="display:flex;gap:1rem;flex-wrap:wrap;">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img
@@ -207,8 +217,8 @@
 </div>
 
 <div style="display:flex;justify-content:center;gap:4rem;flex-wrap:wrap;margin:2rem;">
-<div>
-<h3 align="center">AI Skills:</h3>
+<div style="background-color:#e8e8e8;padding:1rem;border-radius:10px">
+<h3 align="center" style="color:#1a1c1b">AI</h3>
 <div align="center" style="display:flex;gap:1rem;flex-wrap:wrap;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img
@@ -275,8 +285,8 @@
 	</a>
 </div>
 </div>
-<div>
-<h3 align="center">Other Skills:</h3>
+<div style="background-color:#e8e8e8;padding:1rem;border-radius:10px">
+<h3 align="center" style="color:#1a1c1b">Other</h3>
 <div align="center" style="display:flex;gap:1rem;flex-wrap:wrap;">
 	<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 		<img
@@ -336,23 +346,18 @@
 </div>
 </div>
 
-<div style="margin:3rem 1rem;">
+<hr style="margin-bottom:1rem;"/>
+
 - 📫 How to reach me **en.mmdami@gmail.com**
+<div style="margin:1rem 1rem;">
  <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/mmdaminah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mmdaminah" height="30" width="40" /></a>
   </p>
 </div>
-<!--START_SECTION:waka-->
 
-```text
-Java           10 hrs 32 mins  ███████████▒░░░░░░░░░░░░░   45.08 %
-Python         9 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   40.07 %
-JavaScript     1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-HTTP Request   1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Gradle         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-HTML           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-```
+<h3 style="margin:1rem;">Languages I've been using this week</h3>
+<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 </div>
