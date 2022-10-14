@@ -358,9 +358,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 mins         ██████████████░░░░░░░░░░░   56.37 %
-Python       10 mins         ██████████▓░░░░░░░░░░░░░░   42.10 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
