@@ -13,9 +13,6 @@
 <p>
 🔭 Currently working in web development field
 </p>
-<p>
-📝 And doing research in deep learning
-</p>
 </div>
 </div>
 
