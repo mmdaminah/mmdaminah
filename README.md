@@ -355,12 +355,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        8 hrs 5 mins    ███████████████░░░░░░░░░░   59.47 %
-TypeScript                 3 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
-Docker                     1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-JavaScript                 51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-JSON                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Nginx configuration file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+PHP                        8 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.17 %
+TypeScript                 6 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.85 %
+Docker                     1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+JavaScript                 51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+JSON                       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Nginx configuration file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
