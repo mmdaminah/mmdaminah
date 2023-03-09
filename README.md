@@ -355,12 +355,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        19 hrs 37 mins  █████████████████░░░░░░░░   67.47 %
-TypeScript                 2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Docker                     1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-YAML                       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Java                       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Nginx configuration file   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+PHP                        17 hrs 13 mins  ███████████████░░░░░░░░░░   59.43 %
+TypeScript                 2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+Blade Template             1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Docker                     1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+JavaScript                 1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+YAML                       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
