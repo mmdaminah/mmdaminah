@@ -355,12 +355,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        15 hrs 58 mins  ██████████████▒░░░░░░░░░░   57.87 %
-TypeScript                 2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-Blade Template             1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Docker                     1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-JavaScript                 1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-YAML                       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+PHP              13 hrs 17 mins  █████████████▒░░░░░░░░░░░   52.81 %
+JavaScript       5 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
+TypeScript       2 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Blade Template   1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Python           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JSON             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
